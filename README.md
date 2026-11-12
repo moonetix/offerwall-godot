@@ -10,7 +10,7 @@
 [![Godot 4](https://img.shields.io/badge/Godot-4.3%2B-478CBF)](https://moonetix.com/academy/integrations/godot-offerwall)
 [![Server](https://img.shields.io/badge/server-Node%2022%2C%20zero%20dependencies-339933)](server/)
 
-A minimal Godot 4 project (Earn coins button, coin HUD) and a Node.js server that signs the [Moonetix](https://moonetix.com) offerwall link, credits coins from postbacks and returns the balance. Moonetix is a pay-per-result affiliate network: players earn your currency by completing offers, and you earn per completed offer. To get an App ID and keys, [sign up free](https://moonetix.com/register?from=github-offerwall-godot).
+A minimal Godot 4 project (Earn coins button, coin HUD) and a Node.js server that signs the [Moonetix](https://moonetix.com) offerwall link, credits coins from postbacks and returns the balance. Moonetix is an affiliate network: players earn your currency by completing offers, and you earn per completed offer. To get an App ID and keys, [sign up free](https://moonetix.com/register?from=github-offerwall-godot).
 
 ## Why a link and not an SDK
 
