@@ -1,0 +1,15 @@
+; Engine configuration file.
+; Open this folder in Godot 4.3 or newer.
+
+config_version=5
+
+[application]
+
+config/name="Moonetix Offerwall Example"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.3")
+
+[autoload]
+
+PlayerSession="*res://scripts/player_session.gd"
+Wallet="*res://scripts/wallet.gd"
