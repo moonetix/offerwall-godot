@@ -1,0 +1,3 @@
+# Language statistics describe the Godot project. The companion server in
+# server/ is a small Node app that only exists so the example runs end to end.
+server/** -linguist-detectable
