@@ -6,11 +6,10 @@
 [![Maintained by Moonetix](https://img.shields.io/badge/maintained%20by-Moonetix-004ABB)](https://moonetix.com)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Docs](https://img.shields.io/badge/docs-offerwall%20link-004ABB)](https://docs.moonetix.com/offerwall-link)
-[![Get keys](https://img.shields.io/badge/get%20keys-moonetix.com-004ABB)](https://moonetix.com/register?from=github-offerwall-godot)
 [![Godot 4](https://img.shields.io/badge/Godot-4.3%2B-478CBF)](https://moonetix.com/academy/integrations/godot-offerwall)
 [![Server](https://img.shields.io/badge/server-Node%2022%2C%20zero%20dependencies-339933)](server/)
 
-A minimal Godot 4 project (Earn coins button, coin HUD) and a Node.js server that signs the [Moonetix](https://moonetix.com) offerwall link, credits coins from postbacks and returns the balance. Moonetix is an affiliate network: players earn your currency by completing offers, and you earn per completed offer. To get an App ID and keys, [sign up free](https://moonetix.com/register?from=github-offerwall-godot).
+A minimal Godot 4 project (Earn coins button, coin HUD) and a Node.js server that signs the [Moonetix](https://moonetix.com) offerwall link, credits coins from postbacks and returns the balance. Moonetix is an affiliate network: players earn your currency by completing offers, and you earn per completed offer. To run it you need an App ID and keys: see [Apply as a publisher](#apply-as-a-publisher).
 
 ## Why a link and not an SDK
 
@@ -174,7 +173,7 @@ npx github:moonetix/postback-tester --preset moonetix \
 
 ## Apply as a publisher
 
-**Sign up free at https://moonetix.com/register?from=github-offerwall-godot.** We review each application by hand. Once approved, add the game as an app, choose the coin name and rate, and put the App ID, link hash salt and postback key in `server/.env`.
+Sign up free at https://moonetix.com/register?from=github-offerwall-godot. We review each application by hand. Once approved, add the game as an app, choose the coin name and rate, and put the App ID, link hash salt and postback key in `server/.env`.
 
 ## More Moonetix examples
 
